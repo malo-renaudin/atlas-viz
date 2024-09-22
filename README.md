@@ -4,6 +4,8 @@
 
 This project demonstrates the basics of using Streamlit with Docker. Streamlit is an open-source app framework for Machine Learning and Data Science teams. Docker is a set of platform-as-a-service products that use OS-level virtualization to deliver software in packages called containers.
 
+This app is about visualizing brain atlases from the Nilearn library.
+
 ## Installation
 
 ### Prerequisites
